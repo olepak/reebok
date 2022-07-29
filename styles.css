@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+body {
+	font-family: "Inter", sans-serif;
+}
+div {
+	outline: 0px solid black;
+}
+.container {
+	width: 1600px;
+	height: 1200px;
+	margin: auto;
+	background-color: #1e1e35;
+	border-radius: 20px;
+	position: relative;
+	overflow: hidden;
+}
+/* Elipses */
+.elipse-bottom-right {
+	width: 569px;
+	height: 569px;
+	border-radius: 50%;
+	position: absolute;
+	top: 784px;
+	left: 1142px;
+	background: #00a3ff;
+	filter: blur(315px);
+}
