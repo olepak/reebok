@@ -20,6 +20,15 @@ div {
 	overflow: hidden;
 }
 
+.rectangle3 {
+	position: absolute;
+	left: 80px;
+	top: 186px;
+	width: 873px;
+	height: 917px;
+	background: #00a3ff;
+	border-radius: 55px;
+}
 /* 5-Reebok group */
 .group1-reebok {
 	position: absolute;
