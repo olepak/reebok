@@ -46,3 +46,12 @@ div {
 	background: #00a3ff;
 	filter: blur(115px);
 }
+.rectangle2 {
+	position: absolute;
+	/* width: 1600px;
+	height: 1200px; */
+	background-color: red;
+	inset: 0;
+	background: linear-gradient(180deg, rgba(30, 30, 53, 0.3) 0%, rgba(30, 30, 53, 0) 100%);
+	backdrop-filter: blur(245px);
+}
