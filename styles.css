@@ -19,55 +19,7 @@ div {
 	position: relative;
 	overflow: hidden;
 }
-/* Elipses */
-.elipse-bottom-right {
-	width: 569px;
-	height: 569px;
-	border-radius: 50%;
-	position: absolute;
-	top: 784px;
-	left: 1142px;
-	background: #00a3ff;
-	filter: blur(115px);
-}
-.elipse-up-right {
-	width: 478px;
-	height: 478px;
-	border-radius: 50%;
-	position: absolute;
-	top: 3px;
-	left: 1142px;
-	background: #00a3ff;
-	filter: blur(208px);
-}
-.elipse-up-left {
-	width: 569px;
-	height: 569px;
-	border-radius: 50%;
-	position: absolute;
-	top: -176px;
-	left: -199px;
-	background: #00a3ff;
-	filter: blur(115px);
-}
-.rectangle2 {
-	position: absolute;
-	/* width: 1600px;
-	height: 1200px; */
-	background-color: red;
-	inset: 0;
-	background: linear-gradient(180deg, rgba(30, 30, 53, 0.3) 0%, rgba(30, 30, 53, 0) 100%);
-	backdrop-filter: blur(245px);
-}
-.rectangle3 {
-	position: absolute;
-	left: 80px;
-	top: 186px;
-	width: 873px;
-	height: 917px;
-	background: #00a3ff;
-	border-radius: 55px;
-}
+
 /* 5-Reebok group */
 .group1-reebok {
 	position: absolute;
