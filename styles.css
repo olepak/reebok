@@ -24,5 +24,25 @@ div {
 	top: 784px;
 	left: 1142px;
 	background: #00a3ff;
-	filter: blur(315px);
+	filter: blur(115px);
+}
+.elipse-up-right {
+	width: 478px;
+	height: 478px;
+	border-radius: 50%;
+	position: absolute;
+	top: 3px;
+	left: 1142px;
+	background: #00a3ff;
+	filter: blur(208px);
+}
+.elipse-up-left {
+	width: 569px;
+	height: 569px;
+	border-radius: 50%;
+	position: absolute;
+	top: -176px;
+	left: -199px;
+	background: #00a3ff;
+	filter: blur(115px);
 }
