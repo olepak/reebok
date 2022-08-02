@@ -32,7 +32,7 @@ div {
 .group1-reebok {
 	position: absolute;
 	top: 199px;
-	left: 144px;
+	left: 143px;
 	font-weight: 700;
 	font-size: 144px;
 	line-height: 150px;
@@ -64,10 +64,30 @@ div {
 .right-card {
 	width: 853px;
 	height: 770px;
+	padding-left: 181px;
+	padding-top: 39px;
 	position: absolute;
-	top: 237px;
+	top: 257px;
 	left: 663px;
 	border-radius: 55px;
 	background: rgba(30, 30, 53, 0.1);
 	backdrop-filter: blur(531px);
+	box-sizing: border-box;
+}
+.right-card-content {
+	color: white;
+}
+.right-card-content-text p:first-child {
+	font-size: 128px;
+	text-transform: uppercase;
+	line-height: 155px;
+	letter-spacing: 0.05em;
+}
+.right-card-content-text p:nth-child(2) {
+	font-size: 64px;
+	line-height: 77px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+
+	color: #b5e4ff;
 }
