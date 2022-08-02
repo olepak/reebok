@@ -100,3 +100,14 @@ div {
 .group1-reebok p:nth-child(5) {
 	opacity: 0.7;
 }
+/* Right card */
+.right-card {
+	width: 853px;
+	height: 770px;
+	position: absolute;
+	top: 237px;
+	left: 663px;
+	border-radius: 55px;
+	background: rgba(30, 30, 53, 0.1);
+	backdrop-filter: blur(531px);
+}
