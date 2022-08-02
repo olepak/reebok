@@ -14,7 +14,7 @@ div {
 	width: 1600px;
 	height: 1200px;
 	margin: auto;
-	background-color: #1e1e35;
+	background: url(img/bacground.png);
 	border-radius: 20px;
 	position: relative;
 	overflow: hidden;
