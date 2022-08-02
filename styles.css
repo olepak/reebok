@@ -73,10 +73,9 @@ div {
 	background: rgba(30, 30, 53, 0.15);
 	backdrop-filter: blur(251px);
 	box-sizing: border-box;
-}
-.right-card-content {
 	color: white;
 }
+
 .right-card-content-text p:first-child {
 	font-size: 128px;
 	text-transform: uppercase;
@@ -114,4 +113,10 @@ div {
 	text-transform: capitalize;
 	line-height: 17px;
 	font-weight: 400;
+}
+.right-card-content-circles-line {
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 0.05em;
 }
