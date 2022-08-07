@@ -220,10 +220,11 @@ div {
 /* Button line */
 .button {
 	width: 201px;
-	height: 58px;
+	/* height: 58px; */
 	border-radius: 30px;
 	box-sizing: border-box;
 	text-align: left;
+	line-height: 1;
 }
 .blue-b {
 	background: #00a3ff;
@@ -234,6 +235,8 @@ div {
 	letter-spacing: 0.05em;
 	text-transform: uppercase;
 	padding-left: 42px;
+	padding-top: 14px;
+	padding-bottom: 15px;
 }
 .red-b {
 	margin-left: 40px;
@@ -241,7 +244,6 @@ div {
 	border: 4px solid #ff9fab;
 	box-shadow: 0px 5px 8px rgba(255, 83, 104, 0.4);
 	font-size: 20px;
-	line-height: 24px;
 	letter-spacing: 0.05em;
 	text-transform: capitalize;
 	padding-left: 30px;
