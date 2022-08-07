@@ -246,7 +246,9 @@ div {
 	font-size: 20px;
 	letter-spacing: 0.05em;
 	text-transform: capitalize;
-	padding-left: 30px;
+	padding-left: 29px;
+	padding-top: 14px;
+	padding-bottom: 15px;
 }
 /* Sneaker */
 .sneaker {
@@ -270,4 +272,13 @@ div {
 	transform: rotate(14.62deg);
 	background: rgba(0, 0, 0, 0.85);
 	filter: blur(30px);
+}
+
+.button-chevron {
+	position: absolute;
+	top: 1124px;
+	left: 771px;
+	width: 58px;
+	height: 58px;
+	background: url(img/chevron.svg);
 }
