@@ -29,18 +29,22 @@ div {
 	display: flex;
 	text-transform: uppercase;
 	align-items: center;
-	font-size: 20px;
 }
-.nav-line p:nth-child(2) {
+.nav-line a {
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
+.nav-line a:nth-child(2) {
 	margin-left: 59px;
 }
-.nav-line p:nth-child(3) {
+.nav-line a:nth-child(3) {
 	margin-left: 58px;
 }
-.nav-line p:nth-child(4) {
+.nav-line a:nth-child(4) {
 	margin-left: 59px;
 }
-.nav-line p:nth-child(5) {
+.nav-line a:nth-child(5) {
 	margin-left: 59px;
 }
 .input {
